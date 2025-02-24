@@ -1,0 +1,9 @@
+---
+title: "Merge conflict demo"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
